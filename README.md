@@ -1,4 +1,4 @@
-# 277B_final
+# 3D-UNet for Brain Tumor Segmentation
 
 Group members: Emma Brugman, Lucia Lopez, Sabrina Temesghen, Julian Dolan
 
